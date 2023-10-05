@@ -1,0 +1,2 @@
+Sample text file
+Hello world
